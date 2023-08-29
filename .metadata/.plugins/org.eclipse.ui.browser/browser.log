@@ -1,0 +1,31 @@
+
+Jul 24, 2023 19:34:40.570 NEW SESSION
+Jul 24, 2023 19:34:40.570 [16836:3880:0724/193440.568:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 24, 2023 20:27:41.885 [16836:17024:0724/202741.885:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 24, 2023 20:28:09.23 [16836:17024:0724/202809.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2023 20:43:23.453 [16836:17024:0724/204323.453:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 24, 2023 21:14:06.89 [16836:17024:0724/211406.088:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2023 21:14:08.138 [16836:17024:0724/211408.137:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -200
+Jul 24, 2023 21:17:52.307 [16836:3880:0724/211752.307:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 24, 2023 21:33:05.700 [16836:3880:0724/213305.699:ERROR:device_event_log_impl.cc(222)] [21:33:05.699] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 24, 2023 21:44:02.183 [16836:3880:0724/214402.182:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint (unset) for first_image_paint 0.859 s
+Jul 24, 2023 21:44:05.361 [16836:3880:0724/214405.360:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 24, 2023 21:49:30.655 [16836:3880:0724/214930.655:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 24, 2023 21:50:11.684 [16836:17128:0724/215011.683:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for cipdn.com failed:
+Jul 24, 2023 21:50:11.685 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG3K3ET920900062,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Jul 24, 2023 21:50:11.685 ERROR: No matching issuer found
+Jul 24, 2023 21:50:11.686 
+Jul 24, 2023 21:50:11.686 
+Jul 24, 2023 21:56:50.941 [16836:3880:0724/215650.941:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 24, 2023 21:56:52.904 [16836:17128:0724/215652.903:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for cipdn.com failed:
+Jul 24, 2023 21:56:52.905 ----- Certificate i=1 (emailAddress=support@fortinet.com,CN=FG3K3ET920900062,OU=Certificate Authority,O=Fortinet,L=Sunnyvale,ST=California,C=US) -----
+Jul 24, 2023 21:56:52.905 ERROR: No matching issuer found
+Jul 24, 2023 21:56:52.905 
+Jul 24, 2023 21:56:52.905 
+Jul 24, 2023 21:56:54.390 [16836:3880:0724/215654.389:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Jul 25, 2023 18:03:50.922 NEW SESSION
+Jul 25, 2023 18:03:50.922 [10956:20124:0725/180350.921:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+Aug 18, 2023 15:47:22.617 NEW SESSION
+Aug 18, 2023 15:47:22.617 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
